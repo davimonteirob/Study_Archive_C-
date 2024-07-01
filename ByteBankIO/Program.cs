@@ -1,10 +1,11 @@
 ﻿using ByteBankIO;
 
+
 class Program
 {
     static void Main(string[] args)
     {
-
-        Console.ReadLine();
+        var endereçoDoArquivo = "contas.txt";
+        
     }
 }
